@@ -1,5 +1,8 @@
-### Hi, I'm Rhaysa 👋 :woman_technologist:
+### Hi, I'm Rhaysa 👋 :woman_technologist: :brazil::purple_heart: 
+-------------
 FullStack Web Dev Jr. who loves Tech n Games! 
 
-:brazil::basecamp::purple_heart: [in](https://www.linkedin.com/in/rlmadruga/)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rlmadruga/)
+
 
