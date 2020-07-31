@@ -2,7 +2,4 @@
 -------------
 FullStack Web Dev Jr. who loves Tech n Games! 
 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rlmadruga/)
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/rlmadruga/)](https://www.linkedin.com/in/rlmadruga/)
