@@ -17,5 +17,7 @@ My tech skills:
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/48/nodejs_original_logo_icon_146411.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/mongodb_original_wordmark_logo_icon_146425.png" width="42px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/react_original_wordmark_logo_icon_146375.png" width="38px">
-
-
+<br/>
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlmadruga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
