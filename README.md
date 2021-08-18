@@ -20,4 +20,6 @@ My tech skills:
 <br/>
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlmadruga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=rlmadruga&theme=buefy&show_icons=true&count_private=true&hide=contribs,issues"/>
+<img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlmadruga&layout=compact"/>
+
