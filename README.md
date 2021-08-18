@@ -20,6 +20,6 @@ My tech skills:
 <br/>
 <br/>
 <br/>
-<img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=rlmadruga&theme=buefy&show_icons=true&count_private=true&hide=contribs,issues"/>
-<img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlmadruga&layout=compact"/>
+<img align="left" height="160rem" src="https://github-readme-stats.vercel.app/api?username=rlmadruga&theme=buefy&show_icons=true&count_private=true&hide=contribs,issues"/>
+<img align="left" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlmadruga&layout=compact"/>
 
