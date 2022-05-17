@@ -22,6 +22,4 @@ My tech skills:
 <br/>
 <br/>
 <br/>
-<img align="left" height="130rem"  src="https://github-readme-stats.vercel.app/api?username=rlmadruga&theme=buefy&show_icons=true&count_private=true&hide=contribs,issues"/>
-<img align="left" height="130rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlmadruga&layout=compact"/>
 
