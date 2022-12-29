@@ -1,9 +1,6 @@
 ### Hi, I'm Rhaysa 👋 :woman_technologist: :brazil::purple_heart: 
 -------------
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/rlmadruga/)](https://www.linkedin.com/in/rlmadruga/) 
-[![Codewars Badge](https://www.codewars.com/users/rlmadruga/badges/micro)](https://www.codewars.com/users/rlmadruga)
-
 Front-End Web Dev who loves Tech n Games! 
 
 My tech skills:
